@@ -5,5 +5,5 @@ USN :Your usn
 Branch:CSE
 Sem:3rd Sem
 #About this project
-This repository is a part of the project management 
+This repository is a part of the project management  
 
